@@ -1,9 +1,0 @@
-<library path="bkrobotics_hardware_interface">
-  <class name="bkrobotics_hardware_interface/BkrRobotHardware"
-         type="bkr_robot::BkrRobotHardware"
-         base_class_type="hardware_interface::SystemInterface">
-    <description>
-      ROS2 Hardware interface for Bkrobotics systems.
-    </description>
-  </class>
-</library>
