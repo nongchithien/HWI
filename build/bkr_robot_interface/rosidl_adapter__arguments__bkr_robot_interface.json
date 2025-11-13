@@ -1,8 +1,0 @@
-{
-  "package_name": "bkr_robot_interface",
-  "non_idl_tuples": [
-    "/home/thien123/ROS2WS/HWI/src/bkr_robot_interface:msg/MsgOdrive.msg",
-    "/home/thien123/ROS2WS/HWI/src/bkr_robot_interface:srv/LinearMove.srv",
-    "/home/thien123/ROS2WS/HWI/src/bkr_robot_interface:srv/RequestOdrive.srv"
-  ]
-}
