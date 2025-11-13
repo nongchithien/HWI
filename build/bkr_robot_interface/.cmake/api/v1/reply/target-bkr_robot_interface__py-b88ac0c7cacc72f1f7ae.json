@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/thien123/ROS2WS/HWI/build/bkr_robot_interface/bkr_robot_interface__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "bkr_robot_interface::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "bkr_robot_interface__py::@4fce50728abf6c2ba801",
+	"name" : "bkr_robot_interface__py",
+	"paths" : 
+	{
+		"build" : "bkr_robot_interface__py",
+		"source" : "/home/thien123/ROS2WS/HWI/build/bkr_robot_interface/bkr_robot_interface__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/thien123/ROS2WS/HWI/build/bkr_robot_interface/bkr_robot_interface__py/CMakeFiles/bkr_robot_interface__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/thien123/ROS2WS/HWI/build/bkr_robot_interface/bkr_robot_interface__py/CMakeFiles/bkr_robot_interface__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/thien123/ROS2WS/HWI/build/bkr_robot_interface/rosidl_generator_py/bkr_robot_interface/_bkr_robot_interface_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

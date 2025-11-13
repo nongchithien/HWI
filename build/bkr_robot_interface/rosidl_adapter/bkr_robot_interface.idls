@@ -1,0 +1,3 @@
+/home/thien123/ROS2WS/HWI/build/bkr_robot_interface/rosidl_adapter/bkr_robot_interface:msg/MsgOdrive.idl
+/home/thien123/ROS2WS/HWI/build/bkr_robot_interface/rosidl_adapter/bkr_robot_interface:srv/LinearMove.idl
+/home/thien123/ROS2WS/HWI/build/bkr_robot_interface/rosidl_adapter/bkr_robot_interface:srv/RequestOdrive.idl

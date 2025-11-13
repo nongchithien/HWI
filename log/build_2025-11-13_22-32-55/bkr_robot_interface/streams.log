@@ -1,0 +1,204 @@
+[0.009s] Invoking command in '/home/thien123/ROS2WS/HWI/build/bkr_robot_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/thien123/ROS2WS/HWI/build/bkr_robot_interface -- -j16 -l16
+[0.053s] [  2%] Built target bkr_robot_interface__cpp
+[0.054s] [ 12%] Built target bkr_robot_interface__rosidl_generator_c
+[0.061s] [ 12%] Built target ament_cmake_python_copy_bkr_robot_interface
+[0.071s] [ 23%] Built target bkr_robot_interface__rosidl_typesupport_introspection_c
+[0.072s] [ 34%] Built target bkr_robot_interface__rosidl_typesupport_c
+[0.072s] [ 51%] Built target bkr_robot_interface__rosidl_typesupport_introspection_cpp
+[0.072s] [ 55%] Built target bkr_robot_interface__rosidl_typesupport_cpp
+[0.072s] [ 68%] Built target bkr_robot_interface__rosidl_typesupport_fastrtps_c
+[0.073s] [ 76%] Built target bkr_robot_interface__rosidl_typesupport_fastrtps_cpp
+[0.089s] [ 76%] Built target bkr_robot_interface
+[0.105s] [ 78%] Built target bkr_robot_interface__py
+[0.126s] [ 87%] Built target bkr_robot_interface__rosidl_generator_py
+[0.150s] [100%] Built target bkr_robot_interface__rosidl_typesupport_c__pyext
+[0.150s] [100%] Built target bkr_robot_interface__rosidl_typesupport_fastrtps_c__pyext
+[0.150s] [100%] Built target bkr_robot_interface__rosidl_typesupport_introspection_c__pyext
+[0.298s] running egg_info
+[0.299s] writing bkr_robot_interface.egg-info/PKG-INFO
+[0.299s] writing dependency_links to bkr_robot_interface.egg-info/dependency_links.txt
+[0.299s] writing top-level names to bkr_robot_interface.egg-info/top_level.txt
+[0.301s] reading manifest file 'bkr_robot_interface.egg-info/SOURCES.txt'
+[0.302s] writing manifest file 'bkr_robot_interface.egg-info/SOURCES.txt'
+[0.325s] [100%] Built target ament_cmake_python_build_bkr_robot_interface_egg
+[0.336s] Invoked command in '/home/thien123/ROS2WS/HWI/build/bkr_robot_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/thien123/ROS2WS/HWI/build/bkr_robot_interface -- -j16 -l16
+[0.346s] Invoking command in '/home/thien123/ROS2WS/HWI/build/bkr_robot_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/thien123/ROS2WS/HWI/build/bkr_robot_interface
+[0.353s] -- Install configuration: ""
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/ament_index/resource_index/rosidl_interfaces/bkr_robot_interface
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/msg_odrive.h
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/rosidl_generator_c__visibility_control.h
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__functions.c
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__functions.h
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__struct.h
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__type_support.h
+[0.354s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/request_odrive.h
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/linear_move.h
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__struct.h
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__type_support.h
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__functions.h
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__type_support.h
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__functions.h
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__struct.h
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__functions.c
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__functions.c
+[0.355s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/environment/library_path.sh
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/environment/library_path.dsv
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/lib/libbkr_robot_interface__rosidl_generator_c.so
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__rosidl_typesupport_fastrtps_c.h
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__rosidl_typesupport_fastrtps_c.h
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__rosidl_typesupport_fastrtps_c.h
+[0.356s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/lib/libbkr_robot_interface__rosidl_typesupport_fastrtps_c.so
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__rosidl_typesupport_introspection_c.h
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__type_support.c
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__type_support.c
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__rosidl_typesupport_introspection_c.h
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__rosidl_typesupport_introspection_c.h
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__type_support.c
+[0.357s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/lib/libbkr_robot_interface__rosidl_typesupport_introspection_c.so
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/lib/libbkr_robot_interface__rosidl_typesupport_c.so
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/msg_odrive.hpp
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__struct.hpp
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__traits.hpp
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__type_support.hpp
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__builder.hpp
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/linear_move.hpp
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/request_odrive.hpp
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail
+[0.358s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__builder.hpp
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__struct.hpp
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__builder.hpp
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__struct.hpp
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__type_support.hpp
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__type_support.hpp
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__traits.hpp
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__traits.hpp
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail
+[0.359s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__rosidl_typesupport_fastrtps_cpp.hpp
+[0.360s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/dds_fastrtps
+[0.360s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv
+[0.360s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail
+[0.360s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__rosidl_typesupport_fastrtps_cpp.hpp
+[0.360s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/dds_fastrtps
+[0.360s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__rosidl_typesupport_fastrtps_cpp.hpp
+[0.360s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/lib/libbkr_robot_interface__rosidl_typesupport_fastrtps_cpp.so
+[0.360s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface
+[0.360s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg
+[0.361s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail
+[0.361s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__rosidl_typesupport_introspection_cpp.hpp
+[0.361s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/msg/detail/msg_odrive__type_support.cpp
+[0.361s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv
+[0.361s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail
+[0.361s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__type_support.cpp
+[0.361s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/linear_move__rosidl_typesupport_introspection_cpp.hpp
+[0.361s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__type_support.cpp
+[0.361s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/include/bkr_robot_interface/bkr_robot_interface/srv/detail/request_odrive__rosidl_typesupport_introspection_cpp.hpp
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/lib/libbkr_robot_interface__rosidl_typesupport_introspection_cpp.so
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/lib/libbkr_robot_interface__rosidl_typesupport_cpp.so
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/environment/pythonpath.sh
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/environment/pythonpath.dsv
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface-0.0.0-py3.10.egg-info
+[0.362s] -- Installing: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface-0.0.0-py3.10.egg-info/top_level.txt
+[0.362s] -- Installing: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.362s] -- Installing: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[0.362s] -- Installing: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/_bkr_robot_interface_s.ep.rosidl_typesupport_c.c
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/bkr_robot_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/_bkr_robot_interface_s.ep.rosidl_typesupport_introspection_c.c
+[0.362s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/msg
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/msg/_msg_odrive_s.c
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/msg/__init__.py
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/msg/_msg_odrive.py
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/_bkr_robot_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/bkr_robot_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/bkr_robot_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/srv
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/srv/_request_odrive.py
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/srv/_linear_move.py
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/srv/_request_odrive_s.c
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/srv/__init__.py
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/srv/_linear_move_s.c
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/libbkr_robot_interface__rosidl_generator_py.so
+[0.363s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/__init__.py
+[0.388s] Listing '/home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface'...
+[0.388s] Listing '/home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/msg'...
+[0.388s] Listing '/home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/srv'...
+[0.391s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/bkr_robot_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.392s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/bkr_robot_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.392s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/local/lib/python3.10/dist-packages/bkr_robot_interface/bkr_robot_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.392s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/lib/libbkr_robot_interface__rosidl_generator_py.so
+[0.392s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/msg/MsgOdrive.idl
+[0.392s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/srv/LinearMove.idl
+[0.392s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/srv/RequestOdrive.idl
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/msg/MsgOdrive.msg
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/srv/LinearMove.srv
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/srv/LinearMove_Request.msg
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/srv/LinearMove_Response.msg
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/srv/RequestOdrive.srv
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/srv/RequestOdrive_Request.msg
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/srv/RequestOdrive_Response.msg
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/ament_index/resource_index/package_run_dependencies/bkr_robot_interface
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/ament_index/resource_index/parent_prefix_path/bkr_robot_interface
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/environment/ament_prefix_path.sh
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/environment/ament_prefix_path.dsv
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/environment/path.sh
+[0.393s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/environment/path.dsv
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/local_setup.bash
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/local_setup.sh
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/local_setup.zsh
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/local_setup.dsv
+[0.394s] -- Installing: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/package.dsv
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/ament_index/resource_index/packages/bkr_robot_interface
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/export_bkr_robot_interface__rosidl_generator_cExport.cmake
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/export_bkr_robot_interface__rosidl_generator_cExport-noconfig.cmake
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/export_bkr_robot_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/export_bkr_robot_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interface__rosidl_typesupport_introspection_cExport.cmake
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interface__rosidl_typesupport_cExport.cmake
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interface__rosidl_typesupport_cExport-noconfig.cmake
+[0.394s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/export_bkr_robot_interface__rosidl_generator_cppExport.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/export_bkr_robot_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/export_bkr_robot_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interface__rosidl_typesupport_introspection_cppExport.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interface__rosidl_typesupport_cppExport.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/export_bkr_robot_interface__rosidl_generator_pyExport.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/export_bkr_robot_interface__rosidl_generator_pyExport-noconfig.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/rosidl_cmake-extras.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/ament_cmake_export_targets-extras.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interfaceConfig.cmake
+[0.395s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/cmake/bkr_robot_interfaceConfig-version.cmake
+[0.396s] -- Up-to-date: /home/thien123/ROS2WS/HWI/install/bkr_robot_interface/share/bkr_robot_interface/package.xml
+[0.396s] Invoked command in '/home/thien123/ROS2WS/HWI/build/bkr_robot_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/thien123/ROS2WS/HWI/build/bkr_robot_interface

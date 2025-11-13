@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from bkr_robot_interface/srv/LinearMove.srv
+// generated code does not contain a copyright notice
+
+
+module bkr_robot_interface {
+  module srv {
+    struct LinearMove_Request {
+      uint8 action;
+
+      float velocity;
+
+      float position;
+    };
+    struct LinearMove_Response {
+      boolean success;
+    };
+  };
+};
